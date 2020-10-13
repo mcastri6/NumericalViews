@@ -1,13 +1,13 @@
 from math import *
-print ("enter the lower limit of the range:")
+print ("Enter the lower limit of the range:")
 a = float(input())
-print ("enter the upper range:")
+print ("Enter the upper range:")
 b = float(input())
-print ("enter the function:")
+print ("Enter the function:")
 f = input()
-print ("enter the number of iterations:")
+print ("Enter the number of iterations:")
 i = int(input())
-print ("enter tolerance:")
+print ("Enter tolerance:")
 tol =float(input())
 control = 1
 
