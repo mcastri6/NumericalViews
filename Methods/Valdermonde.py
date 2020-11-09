@@ -13,7 +13,7 @@ def Vandermonde(X,Y):
 n=int(input('Enter the number of data to use: '))
 X=np.zeros(n)
 Y=np.zeros(n)
-print('LOS DATOS SERÁN INTRODUCIDOS POR PAREJAS (X,Y)')
+print('Values must be introduced by couples (X,Y)')
 
 for i in range(n):
     print('Enter the value of X[',i,']')
